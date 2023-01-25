@@ -1,7 +1,7 @@
 {
     "REPLACE_ME": {
-        "role": "arn:aws:iam::111111111111:role/REPLACE_ME",
+        "role": "arn:aws:cloudformation:us-west-2:366236090210:stack/aws-proton-terraform-role-stack/47be9c10-9cf8-11ed-81eb-0a733c0fb06b",
         "region": "us-west-2",
-        "state_bucket":"REPLACE_ME"
+        "state_bucket":"aws-proton-terraform-bucket-366236090210"
     }
 }
